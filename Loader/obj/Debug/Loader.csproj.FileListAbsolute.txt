@@ -1,0 +1,10 @@
+U:\Documents\C#\Fourmia-master\FourmiaUI\Loader\obj\Debug\Loader.csprojResolveAssemblyReference.cache
+U:\Documents\C#\Fourmia\FourmiaUI\Loader\obj\Debug\Loader.csprojResolveAssemblyReference.cache
+U:\Documents\C#\Fourmia\FourmiaUI\Loader\Bin\Debug\Loader.dll
+U:\Documents\C#\Fourmia\FourmiaUI\Loader\Bin\Debug\Loader.pdb
+U:\Documents\C#\Fourmia\FourmiaUI\Loader\Bin\Debug\Controler.dll
+U:\Documents\C#\Fourmia\FourmiaUI\Loader\Bin\Debug\Metier.dll
+U:\Documents\C#\Fourmia\FourmiaUI\Loader\Bin\Debug\Controler.pdb
+U:\Documents\C#\Fourmia\FourmiaUI\Loader\Bin\Debug\Metier.pdb
+U:\Documents\C#\Fourmia\FourmiaUI\Loader\obj\Debug\Loader.dll
+U:\Documents\C#\Fourmia\FourmiaUI\Loader\obj\Debug\Loader.pdb

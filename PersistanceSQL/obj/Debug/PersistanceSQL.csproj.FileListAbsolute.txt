@@ -1,0 +1,14 @@
+U:\Documents\C#\Fourmia\FourmiaUI\PersistanceSQL\obj\Debug\PersistanceSQL.csprojResolveAssemblyReference.cache
+U:\Documents\C#\Fourmia\FourmiaUI\PersistanceSQL\Bin\Debug\PersistanceSQL.dll
+U:\Documents\C#\Fourmia\FourmiaUI\PersistanceSQL\Bin\Debug\PersistanceSQL.pdb
+U:\Documents\C#\Fourmia\FourmiaUI\PersistanceSQL\Bin\Debug\Metier.dll
+U:\Documents\C#\Fourmia\FourmiaUI\PersistanceSQL\Bin\Debug\Metier.pdb
+U:\Documents\C#\Fourmia\FourmiaUI\PersistanceSQL\obj\Debug\PersistanceSQL.dll
+U:\Documents\C#\Fourmia\FourmiaUI\PersistanceSQL\obj\Debug\PersistanceSQL.pdb
+C:\travail\Fourmia\FourmiaUI\PersistanceSQL\Bin\Debug\PersistanceSQL.dll
+C:\travail\Fourmia\FourmiaUI\PersistanceSQL\Bin\Debug\PersistanceSQL.pdb
+C:\travail\Fourmia\FourmiaUI\PersistanceSQL\Bin\Debug\Metier.dll
+C:\travail\Fourmia\FourmiaUI\PersistanceSQL\Bin\Debug\Metier.pdb
+C:\travail\Fourmia\FourmiaUI\PersistanceSQL\obj\Debug\PersistanceSQL.csprojResolveAssemblyReference.cache
+C:\travail\Fourmia\FourmiaUI\PersistanceSQL\obj\Debug\PersistanceSQL.dll
+C:\travail\Fourmia\FourmiaUI\PersistanceSQL\obj\Debug\PersistanceSQL.pdb

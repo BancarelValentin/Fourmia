@@ -1,0 +1,14 @@
+U:\Documents\C#\Fourmia\FourmiaUI\PersistanceBin\obj\Debug\PersistanceBin.csprojResolveAssemblyReference.cache
+U:\Documents\C#\Fourmia\FourmiaUI\PersistanceBin\Bin\Debug\PersistanceBin.dll
+U:\Documents\C#\Fourmia\FourmiaUI\PersistanceBin\Bin\Debug\PersistanceBin.pdb
+U:\Documents\C#\Fourmia\FourmiaUI\PersistanceBin\Bin\Debug\Metier.dll
+U:\Documents\C#\Fourmia\FourmiaUI\PersistanceBin\Bin\Debug\Metier.pdb
+U:\Documents\C#\Fourmia\FourmiaUI\PersistanceBin\obj\Debug\PersistanceBin.dll
+U:\Documents\C#\Fourmia\FourmiaUI\PersistanceBin\obj\Debug\PersistanceBin.pdb
+C:\travail\Fourmia\FourmiaUI\PersistanceBin\Bin\Debug\PersistanceBin.dll
+C:\travail\Fourmia\FourmiaUI\PersistanceBin\Bin\Debug\PersistanceBin.pdb
+C:\travail\Fourmia\FourmiaUI\PersistanceBin\Bin\Debug\Metier.dll
+C:\travail\Fourmia\FourmiaUI\PersistanceBin\Bin\Debug\Metier.pdb
+C:\travail\Fourmia\FourmiaUI\PersistanceBin\obj\Debug\PersistanceBin.csprojResolveAssemblyReference.cache
+C:\travail\Fourmia\FourmiaUI\PersistanceBin\obj\Debug\PersistanceBin.dll
+C:\travail\Fourmia\FourmiaUI\PersistanceBin\obj\Debug\PersistanceBin.pdb
